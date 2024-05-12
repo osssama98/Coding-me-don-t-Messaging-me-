@@ -54,41 +54,7 @@ A simple React application to generate & scan Quick Response code (QR code).
     $ npm i react-qr-reader
     ```
 
-- __Preview__
-
-  Home Page
-
-  ![./img/Home.png](./img/Home.png)
-
-  QR Generator Page
-  
-  ![./img/QRgenerator.png](./img/QRgenerator.png)
-
-  QR Scanner Page
-  
-  ![./img/QRscanner.png](./img/QRscanner.png)
-
 <hr>
-
-#### 🍔 Lintang Wisesa
-
-<br>
-
-<a href="mailto: lintangwisesa@ymail.com">
-  <img align="left" style="margin-right:10px" alt="lintang ymail" width="22px" src="https://camo.githubusercontent.com/b6e5ff081d7552ec05656de193794847e14d47ad/68747470733a2f2f732e79696d672e636f6d2f63762f61706976322f6d79632f6d61696c2f4d61696c5f694f535f6170705f69636f6e2e706e67" />
-</a>
-
-<a href="https://web.facebook.com/lintangbagus/">
-  <img align="left" style="margin-right:10px" alt="lintang facebook" width="22px" src="https://camo.githubusercontent.com/a461898d72dd9f4c8c526dfcca9dfdc8a8c69605/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f352f35312f46616365626f6f6b5f665f6c6f676f5f253238323031392532392e7376672f3130323470782d46616365626f6f6b5f665f6c6f676f5f253238323031392532392e7376672e706e67" />
-</a>
-
-<a href="https://twitter.com/Lintang_Wisesa">
-  <img style="margin-right:10px" align="left" alt="lintang twitter" width="24px" src="https://camo.githubusercontent.com/b6943877f3d8a1269974b9f820388403ee2b1978/68747470733a2f2f332e62702e626c6f6773706f742e636f6d2f2d4e786f754d6d7a32624f592f54385f61633937636573492f41414141414141414767302f65337659315f62646e62452f73313630302f547769747465722b6c6f676f2b323031322e706e67" />
-</a>
-
-<a href="https://www.youtube.com/user/lintangbagus">
-  <img style="margin-right:10px" align="left" alt="lintang youtube" width="29px" src="https://www.pinclipart.com/picdir/big/55-557137_a-quiet-drifter-takes-a-janitorial-job-at.png" />
-</a>
 
 # QR-generator
 # QR-generator
