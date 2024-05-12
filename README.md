@@ -108,3 +108,4 @@ A simple React application to generate & scan Quick Response code (QR code).
 # QR-generator
 # QR-generator
 # React-QR-Code-Scanner-Generator
+# React-QR-Code-Scanner-Generator
